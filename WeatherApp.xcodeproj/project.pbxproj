@@ -17,6 +17,7 @@
 		097D8BF329CB50E3006533B1 /* NetworkWeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 097D8BF229CB50E3006533B1 /* NetworkWeatherManager.swift */; };
 		097D8BF729CB56E8006533B1 /* CurrentWeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 097D8BF629CB56E8006533B1 /* CurrentWeatherData.swift */; };
 		097D8BF929CB59FF006533B1 /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 097D8BF829CB59FF006533B1 /* CurrentWeather.swift */; };
+		097D8BFB29CBADF5006533B1 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 097D8BFA29CBADF5006533B1 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		097D8BF229CB50E3006533B1 /* NetworkWeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkWeatherManager.swift; sourceTree = "<group>"; };
 		097D8BF629CB56E8006533B1 /* CurrentWeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherData.swift; sourceTree = "<group>"; };
 		097D8BF829CB59FF006533B1 /* CurrentWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
+		097D8BFA29CBADF5006533B1 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 		097D8BE929CB44F6006533B1 /* SupportingFiles */ = {
 			isa = PBXGroup;
 			children = (
+				097D8BFA29CBADF5006533B1 /* Constants.swift */,
 				097D8BD529CB44CF006533B1 /* AppDelegate.swift */,
 				097D8BD729CB44CF006533B1 /* SceneDelegate.swift */,
 				097D8BDE29CB44D2006533B1 /* Assets.xcassets */,
@@ -197,6 +200,7 @@
 				097D8BD629CB44CF006533B1 /* AppDelegate.swift in Sources */,
 				097D8BD829CB44CF006533B1 /* SceneDelegate.swift in Sources */,
 				097D8BF729CB56E8006533B1 /* CurrentWeatherData.swift in Sources */,
+				097D8BFB29CBADF5006533B1 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
